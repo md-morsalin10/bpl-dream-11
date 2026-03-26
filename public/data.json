@@ -1,0 +1,302 @@
+[
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicket‑keeper Batsman",
+    "ratting": 4.9,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://i.ibb.co.com/gbLvjBmM/jos-butler.jpg",
+    "Price": 1000
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All‑rounder",
+    "ratting": 4.8,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Right‑arm fast‑medium",
+    "playerImage": "https://i.ibb.co.com/HLdbbhxH/ben-stokes.webp",
+    "Price": 1000
+  },
+  {
+    "playerName": "Phil Salt",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "ratting": 4.7,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://i.ibb.co.com/dsWMRzBJ/phil-salt.webp",
+    "Price": 980
+  },
+  {
+    "playerName": "Sam Curran",
+    "playerCountry": "England",
+    "playerType": "All‑rounder",
+    "ratting": 4.6,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Left‑arm medium‑fast",
+    "playerImage": "https://i.ibb.co.com/HDyhcm53/sam-curran.jpg",
+    "Price": 920
+  },
+  {
+    "playerName": "Harry Brook",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "ratting": 4.5,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://i.ibb.co.com/KcRLyMv6/harry-brok.jpg",
+    "Price": 910
+  },
+  {
+    "playerName": "Ben Duckett",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "ratting": 4.4,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://i.ibb.co.com/tpXd3Bcm/ben-dukket.jpg",
+    "Price": 880
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "ratting": 4.8,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Right‑arm medium",
+    "playerImage": "https://i.ibb.co.com/XrfJTRNb/david-warner.webp",
+    "Price": 980
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerType": "All‑rounder",
+    "ratting": 4.7,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Right‑arm offbreak",
+    "playerImage": "https://i.ibb.co.com/zH08NHFT/maxwell.webp",
+    "Price": 950
+  },
+  {
+    "playerName": "Travis Head",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "ratting": 4.6,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Right‑arm medium",
+    "playerImage": "https://i.ibb.co.com/nNWvSXB9/head.webp",
+    "Price": 940
+  },
+  {
+    "playerName": "Mitchell Marsh",
+    "playerCountry": "Australia",
+    "playerType": "All‑rounder",
+    "ratting": 4.5,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Right‑arm medium",
+    "playerImage": "https://i.ibb.co.com/JRhhyP8X/marsh.jpg",
+    "Price": 900
+  },
+  {
+    "playerName": "Marcus Stoinis",
+    "playerCountry": "Australia",
+    "playerType": "All‑rounder",
+    "ratting": 4.4,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Right‑arm medium",
+    "playerImage": "https://upload.wikimedia.org/wikipedia/commons/2/2b/2018.01.21.15.22.25-Stoinis_%2839081521620%29.jpg",
+    "Price": 880
+  },
+  {
+    "playerName": "Tim David",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "ratting": 4.4,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://espncricinfo.com/player/tim-david/photo.jpg",
+    "Price": 870
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "ratting": 4.7,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Right‑arm offbreak",
+    "playerImage": "https://espncricinfo.com/player/kane-williamson/photo.jpg",
+    "Price": 970
+  },
+  {
+    "playerName": "Tim Seifert",
+    "playerCountry": "New Zealand",
+    "playerType": "Wicket‑keeper Batsman",
+    "ratting": 4.5,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://espncricinfo.com/player/tim-seifert/photo.jpg",
+    "Price": 890
+  },
+  {
+    "playerName": "Finn Allen",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "ratting": 4.4,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://espncricinfo.com/player/finn-allen/photo.jpg",
+    "Price": 860
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "ratting": 4.6,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Left‑arm fast‑medium",
+    "playerImage": "https://espncricinfo.com/player/trent-boult/photo.jpg",
+    "Price": 900
+  },
+  {
+    "playerName": "Glenn Phillips",
+    "playerCountry": "New Zealand",
+    "playerType": "All‑rounder",
+    "ratting": 4.4,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Right‑arm offbreak",
+    "playerImage": "https://espncricinfo.com/player/glenn-phillips/photo.jpg",
+    "Price": 880
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All‑rounder",
+    "ratting": 4.7,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Left‑arm orthodox",
+    "playerImage": "https://espncricinfo.com/player/shakib-al-hasan/photo.jpg",
+    "Price": 950
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "ratting": 4.5,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Left‑arm fast‑medium",
+    "playerImage": "https://espncricinfo.com/player/mustafizur-rahman/photo.jpg",
+    "Price": 880
+  },
+  {
+    "playerName": "Liton Das",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicket‑keeper Batsman",
+    "ratting": 4.4,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://espncricinfo.com/player/liton-das/photo.jpg",
+    "Price": 870
+  },
+  {
+    "playerName": "Towhid Hridoy",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "ratting": 4.3,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://espncricinfo.com/player/towhid-hridoy/photo.jpg",
+    "Price": 850
+  },
+  {
+    "playerName": "Nasum Ahmed",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "ratting": 4.2,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Left‑arm orthodox",
+    "playerImage": "https://espncricinfo.com/player/nasum-ahmed/photo.jpg",
+    "Price": 840
+  },
+  {
+    "playerName": "Mahmudullah",
+    "playerCountry": "Bangladesh",
+    "playerType": "All‑rounder",
+    "ratting": 4.3,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Right‑arm offbreak",
+    "playerImage": "https://espncricinfo.com/player/mahmudullah/photo.jpg",
+    "Price": 820
+  },
+  {
+    "playerName": "Rilee Rossouw",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "ratting": 4.5,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "https://espncricinfo.com/player/rilee-rossouw/photo.jpg",
+    "Price": 900
+  },
+  {
+    "playerName": "David Miller",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "ratting": 4.6,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Right‑arm medium",
+    "playerImage": "https://espncricinfo.com/player/david-miller/photo.jpg",
+    "Price": 910
+  },
+  {
+    "playerName": "Aiden Markram",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "ratting": 4.4,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Right‑arm medium",
+    "playerImage": "https://espncricinfo.com/player/aiden-markram/photo.jpg",
+    "Price": 880
+  },
+  {
+    "playerName": "Kagiso Rabada",
+    "playerCountry": "South Africa",
+    "playerType": "Bowler",
+    "ratting": 4.7,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Right‑arm fast",
+    "playerImage": "https://espncricinfo.com/player/kagiso-rabada/photo.jpg",
+    "Price": 940
+  },
+  {
+    "playerName": "Anrich Nortje",
+    "playerCountry": "South Africa",
+    "playerType": "Bowler",
+    "ratting": 4.6,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Right‑arm fast",
+    "playerImage": "https://espncricinfo.com/player/anrich-nortje/photo.jpg",
+    "Price": 920
+  },
+  {
+    "playerName": "Tabraiz Shamsi",
+    "playerCountry": "South Africa",
+    "playerType": "Bowler",
+    "ratting": 4.4,
+    "battingStyle": "Right‑hand bat",
+    "bowlingStyle": "Left‑arm orthodox",
+    "playerImage": "https://espncricinfo.com/player/tabraiz-shamsi/photo.jpg",
+    "Price": 880
+  },
+  {
+    "playerName": "Marco Jansen",
+    "playerCountry": "South Africa",
+    "playerType": "All‑rounder",
+    "ratting": 4.3,
+    "battingStyle": "Left‑hand bat",
+    "bowlingStyle": "Left‑arm fast",
+    "playerImage": "https://espncricinfo.com/player/marco-jansen/photo.jpg",
+    "Price": 860
+  }
+]
