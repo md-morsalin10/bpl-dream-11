@@ -9,7 +9,7 @@ const PlayersContainer = ({ playerPromise,setCoin,coin }) => {
     const [selectedPlayers, setSelectedPlayers]= useState([])
 
     return (
-        <div className='p-5 w-11/12 mx-auto'> 
+        <div className='p-5 w-11/12 mx-auto mb-40'> 
             <div className='flex justify-between items-center'>
                 <div>
                     {selected==='available' ? <h1 className='text-xl font-bold'>Available Players</h1> : <h1 className='text-xl font-bold'>Selected Players({selectedPlayers.length} /{playersData.length})</h1>}

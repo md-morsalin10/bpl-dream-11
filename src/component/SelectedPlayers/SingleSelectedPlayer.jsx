@@ -1,15 +1,28 @@
 import React from 'react';
 import { FaUser } from 'react-icons/fa';
 import { MdDelete } from 'react-icons/md';
+import { toast } from 'react-toastify';
 
-const SingleSelectedPlayer = ({ sPlayer,setSelectedPlayers,selectedPlayers,coin, setCoin }) => {
+const SingleSelectedPlayer = ({ sPlayer, setSelectedPlayers, selectedPlayers, coin, setCoin }) => {
     console.log(selectedPlayers);
 
-    const handelDltBtn = (sPlayer) =>{
-        const filterPlayers = selectedPlayers.filter((selectedPlayers)=> selectedPlayers.playerName !== sPlayer.playerName);
+    const handelDltBtn = (sPlayer) => {
+        const filterPlayers = selectedPlayers.filter((selectedPlayers) => selectedPlayers.playerName !== sPlayer.playerName);
         setSelectedPlayers(filterPlayers)
-        setCoin(coin+sPlayer.Price)
-        
+        setCoin(coin + sPlayer.Price)
+
+        toast.error(`${sPlayer.playerName} player is deleted`, {
+            position: "top-center",
+            autoClose: 5000,
+            hideProgressBar: false,
+            closeOnClick: false,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "light",
+        });
+
+
     }
 
 
@@ -25,7 +38,7 @@ const SingleSelectedPlayer = ({ sPlayer,setSelectedPlayers,selectedPlayers,coin,
                 </div>
             </div>
             <div>
-                <button onClick={()=> handelDltBtn(sPlayer)} className='btn text-red-500'><MdDelete></MdDelete></button>
+                <button onClick={() => handelDltBtn(sPlayer)} className='btn text-red-500'><MdDelete></MdDelete></button>
             </div>
         </div>
     );
