@@ -11,7 +11,7 @@ const SingleSelectedPlayer = ({ sPlayer, setSelectedPlayers, selectedPlayers, co
         setSelectedPlayers(filterPlayers)
         setCoin(coin + sPlayer.Price)
 
-        toast.error(`${sPlayer.playerName} player is deleted`, {
+        toast.error(`${sPlayer.playerName} is deleted from your team`, {
             position: "top-center",
             autoClose: 5000,
             hideProgressBar: false,

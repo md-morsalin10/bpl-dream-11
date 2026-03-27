@@ -11,13 +11,13 @@ const Navbar = ({coin}) => {
                     <img className='w-12 h-12' src={logo} alt="" />
                 </div>
                 <div className="flex gap-2 justify-center items-center">
-                    <ul className="menu menu-horizontal px-3">
+                    <ul className="menu menu-horizontal px-3 text-gray-600 font-medium">
                         <li><a>Home</a></li>
                         <li><a>Fixtures</a></li>
                         <li><a>Teams</a></li>
                         <li><a>Schedules</a></li>
                     </ul>
-                    <p className='btn'>
+                    <p className='btn text-gray-800 font-bold hover:bg-amber-200'>
                        <span>{coin} Coins</span>
                         <img src={dollar} alt="" />
                         </p>
